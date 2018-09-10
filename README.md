@@ -30,6 +30,9 @@ Need to initialize
 - [eslint](https://eslint.org/docs/user-guide/getting-started)
 - [webpack](https://webpack.js.org/guides/getting-started/)
 - dotenv
+- maybe browserify and common js
+
+I read that you can configure linting for different areas of the project, so since I have a server and a front-end, I need separate eslint files for those areas.
 
 I have my own CSS reset file I use in conjunction with Normalize.css
 - public/css/default.css

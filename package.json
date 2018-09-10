@@ -4,9 +4,9 @@
   "description": "For the personal side of pcktbot. A node server instead of LAMP.",
   "main": "index.js",
   "scripts": {
-    "start": "",
+    "start": "node index.js",
     "dev": "",
-    "build": "npx webpack --config webpack.config.js",
+    "build": "webpack --config webpack.config.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
